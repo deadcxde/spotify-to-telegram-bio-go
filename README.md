@@ -2,7 +2,7 @@
 
 Автоматически обновляет биографию в Telegram, показывая текущий трек из Spotify.
 
-[Скачать]([https://developer.spotify.com/dashboard](https://github.com/deadcxde/spotify-to-telegram-bio-go/releases)):
+[Скачать](https://github.com/deadcxde/spotify-to-telegram-bio-go/releases)
 
 ## Первый запуск
 
