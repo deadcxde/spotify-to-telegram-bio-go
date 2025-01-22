@@ -6,6 +6,8 @@
 
 ## Первый запуск
 
+### Обязательно включить VPN перед первым запуском, после авторизации он не потребуется
+
 1. Создайте приложение в [Spotify Developer Dashboard](https://developer.spotify.com/dashboard):
    - Получите Client ID и Client Secret
    - В настройках приложения добавьте Redirect URI: `http://localhost:8080/callback`
